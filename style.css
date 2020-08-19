@@ -1,6 +1,18 @@
 .northAmerica{
     border: 5px solid black;
+    background-color: white;
+    opacity: 85%;
+    
   }
+.card{
+    transition: all .2s ease-in-out;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+
+}
 
  body{
      margin: 0;
@@ -14,7 +26,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 185vh;
     width:70%;
     margin-left: 15%;
     
