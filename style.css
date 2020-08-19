@@ -1,0 +1,80 @@
+.northAmerica{
+    border: 5px solid black;
+  }
+
+ body{
+     margin: 0;
+     padding: 0;
+     background-color:lightblue;
+ }
+
+#header{
+    text-align: center;
+    background-image:url('./map1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width:70%;
+    margin-left: 15%;
+    
+}
+
+.regular{
+    margin-bottom: 3%;
+}
+
+
+
+
+
+
+   
+
+   
+
+  .bttn{
+      border: 2px solid red;
+      border-radius: 5px;
+      background-color: red;
+      text-decoration: none;
+      color: black;
+      margin-left: 34%;
+  }
+
+  .bttn:hover{
+      text-decoration: none;
+      cursor: pointer;
+      color: grey;
+      opacity: 50%;
+
+  }
+
+  .title{
+      text-align: center;
+  }
+
+  #canadaImg{
+     width: 100%;
+  }
+
+  #usaImg{
+      width: 100%;
+  }
+
+  #mexicoImg{
+      width: 100%;
+  }
+
+  #buttonCanada{
+
+  }
+
+  #buttonUsa{
+    margin-top: 12%;
+  }
+
+  #buttonMexico{
+     
+
+  }
